@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <Blacklist></Blacklist>
+  <Whitelist>
+    <ID>SpreadOperator:PackFactory.kt$PackFactory$(*card)</ID>
+    <ID>MagicNumber:Card.kt$Card$0x10000</ID>
+    <ID>MagicNumber:Card.kt$Card$0x400</ID>
+    <ID>MagicNumber:Card.kt$Card$0xD800</ID>
+    <ID>MagicNumber:Card.kt$Card$0xDC00</ID>
+  </Whitelist>
+</SmellBaseline>
